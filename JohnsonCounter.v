@@ -1,6 +1,6 @@
 
     module johnson(
-    input clk,output reg[3:0]q
+        input clk,output reg[3:0]q=0000
     );
     always@(posedge clk)begin
     case(q)
