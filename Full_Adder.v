@@ -26,3 +26,17 @@ module FA(
     and(f,c,d);
     or(carry,e,f);
 endmodule
+
+//Behavioural
+module FA(
+    input a,
+    input b,
+    input c,
+    output reg sum,
+    output reg carry
+    );
+    always@(a,b,c)begin
+    sum = a^b^c;
+    carry=(a&b)|(b&c)|(a&c);
+    end
+endmodule
