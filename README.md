@@ -1,5 +1,5 @@
 # Verilog
-#Steps to Create a New Vivado Project
+# Steps to Create a New Vivado Project
 
 1. Open Vivado.
 
