@@ -1,7 +1,7 @@
 //[0,1,2,3,5,7,8,10]->(a+d').(b+d)
 //StructuralFlow
 module possf(
-  input a,b,d;
+  input a,b,c,d;
   output y
   );
   wire e,f,g;
@@ -15,6 +15,7 @@ endmodule;
 module posdf(
   input a;
   input b;
+  input c;
   input d;
   output y
 );
