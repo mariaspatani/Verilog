@@ -36,13 +36,13 @@
 1. Save the Verilog Code
 
 2. After typing your code in the editor, click Save (or press Ctrl + S).
----
+
 
 3. Run Synthesis
 
 4. On the left side (Flow Navigator), click Run Synthesis.
 
-5 A confirmation dialog may appear — click OK.
+5. A confirmation dialog may appear — click OK.
 
 6. Wait for the synthesis process to complete.
 
