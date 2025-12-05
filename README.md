@@ -30,8 +30,10 @@
 13. Click Next.
 
 14. Click Finish.
+    
+---
 
-    # Steps to Save Code, Run Synthesis, and Run Behavioral Simulation in Vivado
+# Steps to Save Code, Run Synthesis, and Run Behavioral Simulation in Vivado
 
 1. Save the Verilog Code
 
