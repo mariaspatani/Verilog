@@ -35,44 +35,44 @@
 
 1. Save the Verilog Code
 
-1. After typing your code in the editor, click Save (or press Ctrl + S).
+2. After typing your code in the editor, click Save (or press Ctrl + S).
 ---
 
-2. Run Synthesis
+3. Run Synthesis
 
-1. On the left side (Flow Navigator), click Run Synthesis.
+4. On the left side (Flow Navigator), click Run Synthesis.
 
-2. A confirmation dialog may appear — click OK.
+5 A confirmation dialog may appear — click OK.
 
-3. Wait for the synthesis process to complete.
+6. Wait for the synthesis process to complete.
 
 
-4. When a pop-up window appears after synthesis, simply close the window.
-
----
-
-3. Run Behavioral Simulation
-4. 
-1. In the Flow Navigator, click Run Simulation → Run Behavioral Simulation.
-
-2. The simulator window will open.
+7. When a pop-up window appears after synthesis, simply close the window.
 
 ---
 
-4. Apply Input Values (Force Constant)
+8. Run Behavioral Simulation
+ 
+9. In the Flow Navigator, click Run Simulation → Run Behavioral Simulation.
 
-1. In the waveform or object window, right-click on a signal.
-
-2. Select Force Constant.
-
-3. Enter the value you want to apply (0 or 1).
-
-4. Repeat for all required input signals.
-
-5. Run the simulation (e.g., by clicking Run All or Run For…).
+10. The simulator window will open.
 
 ---
 
-5. Adjust Waveform View
+11. Apply Input Values (Force Constant)
 
-1. Click Zoom Fit to automatically adjust and fit the waveforms on the screen.
+12. In the waveform or object window, right-click on a signal.
+
+13. Select Force Constant.
+
+14. Enter the value you want to apply (0 or 1).
+
+15. Repeat for all required input signals.
+
+16. Run the simulation (e.g., by clicking Run All or Run For…).
+
+---
+
+17. Adjust Waveform View
+
+18. Click Zoom Fit to automatically adjust and fit the waveforms on the screen.
