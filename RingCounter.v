@@ -1,4 +1,4 @@
-module ring(input clk,output reg[3:0]q=1000
+module ring(input clk,output reg[3:0]q=4'b1000
 );
 always @(posedge clk) begin
 case (q)
