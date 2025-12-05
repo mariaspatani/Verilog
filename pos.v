@@ -1,7 +1,7 @@
 //[0,1,2,3,5,7,8,10]->(a+d').(b+d)
 //StructuralFlow
 module possf(
-  input a,b,c,d;
+  input a,b,c,d;// c is not compulsory 
   output y
   );
   wire e,f,g;
