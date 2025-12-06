@@ -27,7 +27,7 @@ module ha(
     output reg sum,
     output reg carry
     );
-    always @( posedge) begin
+    always @(a,b) begin
         
     sum = a^b;
     carry = a&b;
